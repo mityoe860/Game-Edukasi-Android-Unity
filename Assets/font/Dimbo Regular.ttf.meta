@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3ed967435286ad84fbd10686cb451ac8
+timeCreated: 1543391702
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 30
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dimbo
+  fontNames:
+  - Dimbo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

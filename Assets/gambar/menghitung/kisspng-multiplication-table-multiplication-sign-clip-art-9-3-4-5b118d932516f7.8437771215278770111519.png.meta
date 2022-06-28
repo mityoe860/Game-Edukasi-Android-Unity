@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: 130f47fed632c034599faf761482418f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: kisspng-multiplication-table-multiplication-sign-clip-art-9-3-4-5b118d932516f7.8437771215278770111519_0
+  - first:
+      213: 21300002
+    second: kisspng-multiplication-table-multiplication-sign-clip-art-9-3-4-5b118d932516f7.8437771215278770111519_1
+  - first:
+      213: 21300004
+    second: kisspng-multiplication-table-multiplication-sign-clip-art-9-3-4-5b118d932516f7.8437771215278770111519_2
+  - first:
+      213: 21300006
+    second: kisspng-multiplication-table-multiplication-sign-clip-art-9-3-4-5b118d932516f7.8437771215278770111519_3
+  - first:
+      213: 21300008
+    second: kisspng-multiplication-table-multiplication-sign-clip-art-9-3-4-5b118d932516f7.8437771215278770111519_4
+  - first:
+      213: 21300010
+    second: kisspng-multiplication-table-multiplication-sign-clip-art-9-3-4-5b118d932516f7.8437771215278770111519_5
+  - first:
+      213: 21300012
+    second: kisspng-multiplication-table-multiplication-sign-clip-art-9-3-4-5b118d932516f7.8437771215278770111519_6
+  - first:
+      213: 21300014
+    second: kisspng-multiplication-table-multiplication-sign-clip-art-9-3-4-5b118d932516f7.8437771215278770111519_7
+  - first:
+      213: 21300016
+    second: kisspng-multiplication-table-multiplication-sign-clip-art-9-3-4-5b118d932516f7.8437771215278770111519_8
+  - first:
+      213: 21300018
+    second: kisspng-multiplication-table-multiplication-sign-clip-art-9-3-4-5b118d932516f7.8437771215278770111519_9
+  - first:
+      213: 21300020
+    second: kisspng-multiplication-table-multiplication-sign-clip-art-9-3-4-5b118d932516f7.8437771215278770111519_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-multiplication-table-multiplication-sign-clip-art-9-3-4-5b118d932516f7.8437771215278770111519_0
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1080
+        width: 752
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc6e5932cd3ed9429eca18f228cc0a4
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-multiplication-table-multiplication-sign-clip-art-9-3-4-5b118d932516f7.8437771215278770111519_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 548
+        width: 284
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc6e5be66a6ca74bb0cd7081e824fd1
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-multiplication-table-multiplication-sign-clip-art-9-3-4-5b118d932516f7.8437771215278770111519_2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 548
+        width: 281
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9841706aedf4f5444a81fee87a1faae8
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-multiplication-table-multiplication-sign-clip-art-9-3-4-5b118d932516f7.8437771215278770111519_3
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 548
+        width: 283
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ceb051bed7375247bd5c45abbee8d56
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-multiplication-table-multiplication-sign-clip-art-9-3-4-5b118d932516f7.8437771215278770111519_4
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 548
+        width: 282
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920ff9182f2ebd240b835c78ae6ee1d6
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-multiplication-table-multiplication-sign-clip-art-9-3-4-5b118d932516f7.8437771215278770111519_5
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 548
+        width: 282
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55f58a8adc48b34bb241533946adb4b
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-multiplication-table-multiplication-sign-clip-art-9-3-4-5b118d932516f7.8437771215278770111519_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 46
+        width: 282
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0954a9ede23fdaa4783b544cd31ebd9c
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-multiplication-table-multiplication-sign-clip-art-9-3-4-5b118d932516f7.8437771215278770111519_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 46
+        width: 283
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d952d5602a4039e4fb92c243cf8d5fcf
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-multiplication-table-multiplication-sign-clip-art-9-3-4-5b118d932516f7.8437771215278770111519_8
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 46
+        width: 282
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6aa2ef8a1a2ee1458ace5565e0f5d64
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-multiplication-table-multiplication-sign-clip-art-9-3-4-5b118d932516f7.8437771215278770111519_9
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 46
+        width: 282
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d090af240265f294796196d89f6ce1ed
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-multiplication-table-multiplication-sign-clip-art-9-3-4-5b118d932516f7.8437771215278770111519_10
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 46
+        width: 281
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987e611a529e11547b572c3f6fcfc0be
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0020d2d969ebce042931e7550261a46d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

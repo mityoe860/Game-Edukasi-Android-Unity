@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scene/menu/menu.unity
+    guid: 7ca0fa4299a3e6d418b4ac88fbe5733c
+  - enabled: 1
+    path: Assets/scene/mengenal_huruf.unity
+    guid: 705ad13abee17dd4b84f43e069206340
+  - enabled: 1
+    path: Assets/scene/puzzle.unity
+    guid: 2293041bffae5014bbbf892e547211bc
+  - enabled: 1
+    path: Assets/scene/latihan_pengurangan.unity
+    guid: 57453bc8e8489d041b588b454bcc0181
+  - enabled: 1
+    path: Assets/scene/latihan_penjumlahan.unity
+    guid: 2febd842ba3bb004492b84c6dbc49fbf
+  - enabled: 1
+    path: Assets/scene/menu/menu membaca/menu_membaca.unity
+    guid: cbd0acc458a2b4f4181775e75a701d37
+  - enabled: 1
+    path: Assets/scene/latihan_menghitung_benda.unity
+    guid: a74a1e989320aac4c9050288ea2b2e1b
+  - enabled: 1
+    path: Assets/scene/latihan_hitungbenda.unity
+    guid: 04fb92a173e141b45bcfad8c4497c2e4
+  - enabled: 1
+    path: Assets/scene/belajar_sukukata_terbuka.unity
+    guid: 5e8673d92cb6b574aa22efa57abdc669
+  - enabled: 0
+    path: 
+    guid: 44726f80913c92f4a819557945e8d61a
+  - enabled: 1
+    path: Assets/scene/mengenal_angka.unity
+    guid: 22540c0a659485e44a5e114cac1e2a42
+  - enabled: 1
+    path: Assets/scene/belajar_menghitung_benda.unity
+    guid: 3c0934d8d212a464896f94cc1b0b52c2
+  - enabled: 1
+    path: Assets/scene/menu/menu membaca/menu_latihan_membaca.unity
+    guid: 05df73d3a116586438b1acacd98e4ca2
+  - enabled: 1
+    path: Assets/scene/menu/menu_latihan.unity
+    guid: 283a2ce5fdb2b6f49a861bc755d69c3c
+  - enabled: 1
+    path: Assets/scene/latihan_huruf.unity
+    guid: d3854b9099790a248aab342ac17f7bb7
+  - enabled: 1
+    path: Assets/scene/menu/menu menghitung/menu_latihan_menghitung.unity
+    guid: 2a8a019b40d112245b5df0c4f0ca038f
+  - enabled: 1
+    path: Assets/scene/belajar_sukukata_tertutup.unity
+    guid: e16464e47acf9e54d9014b61dec05719
+  - enabled: 1
+    path: Assets/scene/menu/menu menghitung/menu_menghitung.unity
+    guid: 7fe794d6e0873da43afd9c3c2ee0f88c
+  - enabled: 1
+    path: Assets/scene/latihan_kata.unity
+    guid: 6fa214907f3dfd94db9bf0cb326cabf5
+  - enabled: 1
+    path: Assets/scene/belajar_penjumlahan.unity
+    guid: 2fce89e2468c07d40a24fff2c63ce428
+  - enabled: 1
+    path: Assets/scene/belajar_pengurangan.unity
+    guid: b13be8ee6e3770047a949a3c8a96b0d4
+  m_configObjects: {}
